@@ -9,7 +9,6 @@
 ## 🚀 About Me
 - Passionate about building web applications  
 - Strong focus on learning by building real projects  
-- Minimum coding time: **12 hours/day**
 
 ---
 
